@@ -50,6 +50,7 @@ public class LoginStep {
 		
 	  
 		System.out.println("Dashboard page");
+		System.out.println("Test");
 		System.out.println("DONEEEEEEEEEEE");
 	}
 }
